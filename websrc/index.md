@@ -36,7 +36,7 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 
    * Gillespie sections 3.0-3.3
 
-   * [Rogers, 2020.](../unprotected/seln.pdf) Not quite enough
+   * [Rogers, 2020.](seln.pdf) Not quite enough
      selection (or perhaps a bit too much).
 
 1. Mar 12 Mutation versus selection
@@ -65,7 +65,7 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 
 1. Apr 23 Population structure
 
-  * [Rogers, 2020.](../unprotected/popstruc.pdf) Geographic population
+  * [Rogers, 2020.](popstruc.pdf) Geographic population
     structure.
   
   * Gillespie, section 5.5.
@@ -74,4 +74,4 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 http://content.csbs.utah.edu/~rogers/pubs/Rogers-JEP.pdf
 
 [rogers:LNGG]:
-../unprotected/ggeneal.pdf
+ggeneal.pdf
