@@ -74,4 +74,4 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 http://content.csbs.utah.edu/~rogers/pubs/Rogers-JEP.pdf
 
 [rogers:LNGG]:
-../ggeneal.pdf
+../unprotected/ggeneal.pdf
