@@ -1,2 +1,2 @@
 # pgen
-Population genetics group, Sprint 2021
+Population genetics group, Spring 2021
