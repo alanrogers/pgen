@@ -1,11 +1,7 @@
 #-*-text-*-
 
-Introduction ::
-Probability 1 :: \citep[sec.~1--2]{Rogers:JEPr}:: R
-
-Probability 2 :: \citep[sec.~3]{Rogers:JEPr} :: R
-
-Describing and partitioning phenotypic variation :: :: S
+Genetic Drift 
+Describing and partitioning phenotypic variation :: ::
 Homework~\ref{H-hw.prob} due.
 
 Genomes and their variation ::\citep[sec.~1.0--1.3]{Gillespie:PGC-04}:: S

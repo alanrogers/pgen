@@ -1,3 +1,6 @@
 # academic calendar
-26 Jan 2021 # first class
+22 Jan 2021 # first class
+15 Feb 2021 # Presidents' day
+5  Mar 2021 # noninstructional day
+5  Apr 2021 # noninstructional day
 27 Apr 2021 # last class 

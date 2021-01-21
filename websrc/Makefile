@@ -1,5 +1,5 @@
-all : ../html/index.html 
+all : ../docs/index.html 
 
-../html/index.html : index.md
-	markdown index.md > ../html/index.html
+../docs/index.html : index.md
+	markdown index.md > ../docs/index.html
 
