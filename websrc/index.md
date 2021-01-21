@@ -8,7 +8,7 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 
 1. Jan 22 Genetic variation
 
-   * Gillespie secs. 1.1-1.3
+   * Gillespie sections 1.1-1.3
 
 1. Jan 29 Decay of heterozygosity
 
@@ -22,7 +22,7 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
 
-   * Gillespie sec. 2.6
+   * Gillespie section 2.6
 
 1. Feb 19 Neutral theory
 
@@ -41,11 +41,11 @@ Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr]
 
 1. Mar 12 Mutation versus selection
 
-   * Gillespie sec. 3.4
+   * Gillespie section 3.4
 
 1. Mar 19 Selection and drift
 
-   * Gillespie secs. 3.9-3.10
+   * Gillespie sections 3.9-3.10
 
 1. Mar 26 Neutral evolution at two loci
 
