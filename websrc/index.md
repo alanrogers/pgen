@@ -4,7 +4,9 @@ This page is for those participating in a reading group on population
 genetics during the Spring semester of 2021. We meet Fridays at 3PM,
 Mountain time.
 
-Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr] 
+Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr] You
+should have this under your belt by the time we get to Gillespie's
+chapter 2.
 
 1. Jan 22 Genetic variation
 
