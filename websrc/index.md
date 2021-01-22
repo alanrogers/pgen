@@ -5,7 +5,7 @@ genetics during the Spring semester of 2021. We meet Fridays at 3PM,
 Mountain time. Most of the readings are Gillespie's
 [Population genetics: a concise guide] [gillespie:concise].
 
-Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr] You
+Prerequisite: [Just enough probability.] [rogers:JEPr] You
 should have this under your belt by the time we get to Gillespie's
 chapter 2.
 
