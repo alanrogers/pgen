@@ -2,7 +2,8 @@
 
 This page is for those participating in a reading group on population
 genetics during the Spring semester of 2021. We meet Fridays at 3PM,
-Mountain time.
+Mountain time. Most of the readings are Gillespie's
+[Population genetics: a concise guide] [gillespie:concise].
 
 Prerequisite: [Rogers. Just enough probability.] [rogers:JEPr] You
 should have this under your belt by the time we get to Gillespie's
@@ -77,3 +78,6 @@ http://content.csbs.utah.edu/~rogers/pubs/Rogers-JEP.pdf
 
 [rogers:LNGG]:
 ggeneal.pdf
+
+[gillespie:concise]:
+https://www.amazon.com/Population-Genetics-John-H-Gillespie/dp/0801880092
