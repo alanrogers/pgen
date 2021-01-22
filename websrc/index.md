@@ -18,6 +18,7 @@ chapter 2.
  interested, [here] [lab] is a link to the Python lab exercises that
  we use in our regular course.
 
+## Schedule
 
 1. Jan 22 Genetic variation
 
