@@ -10,7 +10,7 @@ should have this under your belt by the time we get to Gillespie's
 chapter 2.
 
 *Homework*: None is required, but it would not be a bad idea to do
- some. Here is [a link] [homework] to the homework problems that Jon
+ some. [Here] [homework] is a link to the homework problems that Jon
  Seger and I use in our course. Answers to even-numbered problems are
  in the back.
 
