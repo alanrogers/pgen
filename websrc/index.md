@@ -22,13 +22,13 @@ chapter 2.
 
 1. Jan 22 Random mating
 
-  * Gillespie sections 1.1-1.3
+  * Gillespie sections 1.1-1.4
 
   * [Lecture](hardywei.pdf)
 
 1. Jan 29 Decay of heterozygosity
 
-  * Gillespie sections 1.4, 2.0-2.3
+  * Gillespie sections 2.0-2.3
 
   * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 1.
 
