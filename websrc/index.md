@@ -20,9 +20,11 @@ chapter 2.
 
 ## Schedule
 
-1. Jan 22 Genetic variation
+1. Jan 22 Random mating
 
-   * Gillespie sections 1.1-1.3
+  * Gillespie sections 1.1-1.3
+
+  * [Lecture] (hardywei.pdf)
 
 1. Jan 29 Decay of heterozygosity
 
