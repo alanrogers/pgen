@@ -34,8 +34,6 @@ chapter 2.
 
 1. Feb 12 Gene genealogies
 
-   * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 1.
-
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
 
    * Gillespie section 2.6
