@@ -32,6 +32,8 @@ chapter 2.
 
   * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 1.
 
+  * [Lecture](hetzdecay.pdf)
+
 1. Feb 12 Gene genealogies
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
