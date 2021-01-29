@@ -12,7 +12,8 @@ chapter 2.
 *Homework*: None is required, but it would not be a bad idea to do
  some. [Here] [homework] is a link to the homework problems that Jon
  Seger and I use in our course. Answers to even-numbered problems are
- in the back.
+ in the back. In the syllabus below, I've listed the relevant homework
+ chapters. 
 
 *Computer exercises*: We're not doing those either, but in case you're
  interested, [here] [lab] is a link to the Python lab exercises that
@@ -26,6 +27,8 @@ chapter 2.
 
   * [Lecture](hardywei.pdf)
 
+  * Homework ch 2
+
 1. Jan 29 Decay of heterozygosity
 
   * Gillespie sections 2.0-2.3
@@ -34,19 +37,27 @@ chapter 2.
 
   * [Lecture](hetzdecay.pdf)
 
+  * Homework ch 3
+
 1. Feb 12 Gene genealogies
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
 
    * Gillespie section 2.6
 
+   * Homework chs 4
+
 1. Feb 19 Neutral theory
 
    * Gillespie section 2.4-2.5, 3.0-3.3
 
+   * Homework ch 6
+
 1. Feb 26 Mismatch distributions
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 7.
+
+   * Homework ch 5
 
 1. Mar 05 Selection 
 
@@ -55,9 +66,13 @@ chapter 2.
    * [Rogers, 2020.](seln.pdf) Not quite enough
      selection (or perhaps a bit too much).
 
+   * Homework ch 8
+
 1. Mar 12 Mutation versus selection
 
    * Gillespie section 3.4
+
+   * Homework ch 8
 
 1. Mar 19 Selection and drift
 
@@ -67,17 +82,25 @@ chapter 2.
 
    * Gillespie sections 4.0-4.1
 
+   * Homework ch 9
+
 1. Apr 02 Selection two loci
 
    * Gillespie section 4.2
 
+   * Homework ch 9
+
 1. Apr 09 Inbreeding
 
-  *  Gillespie, sections 5.0-5.2
+   *  Gillespie, sections 5.0-5.2
+
+   * Homework ch 10
 
 1. Apr 16 Inbreeding, drift, and fitness
 
-  *  Gillespie, section 5.3
+   *  Gillespie, section 5.3
+
+   * Homework ch 10
 
 1. Apr 23 Population structure
 
@@ -85,6 +108,8 @@ chapter 2.
     structure.
   
   * Gillespie, section 5.5.
+
+  * Homework ch 11
 
 [rogers:JEPr]:
 http://content.csbs.utah.edu/~rogers/pubs/Rogers-JEP.pdf
