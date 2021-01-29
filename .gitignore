@@ -1,1 +1,10 @@
 *~
+*.aux
+*.log
+*.nav
+*.out
+main.pdf
+*.snm
+*.toc
+foo.pdf
+foo.tex
