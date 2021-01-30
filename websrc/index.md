@@ -39,7 +39,7 @@ chapter 2.
 
   * Homework ch 3
 
-1. Feb 12 Gene genealogies
+1. Feb 05 Gene genealogies
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
 
@@ -47,19 +47,19 @@ chapter 2.
 
    * Homework chs 4
 
-1. Feb 19 Neutral theory
+1. Feb 12 Neutral theory
 
    * Gillespie section 2.4-2.5, 3.0-3.3
 
    * Homework ch 6
 
-1. Feb 26 Mismatch distributions
+1. Feb 19 Mismatch distributions
 
    * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 7.
 
    * Homework ch 5
 
-1. Mar 05 Selection 
+1. Feb 26 Selection 
 
    * Gillespie sections 3.0-3.3
 
@@ -67,6 +67,8 @@ chapter 2.
      selection (or perhaps a bit too much).
 
    * Homework ch 8
+
+1. Mar 05 No class
 
 1. Mar 12 Mutation versus selection
 
