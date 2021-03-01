@@ -72,6 +72,8 @@ chapter 2.
 
   * For more math: [Rogers. Expectation of the SFS] [rogers:sfs]
 
+  * Homework ch 5
+
 1. Mar 10 Mutation versus selection
 
    * Gillespie section 3.4
