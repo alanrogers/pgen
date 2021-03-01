@@ -1,7 +1,7 @@
 # Population Genetics Reading Group
 
 This page is for those participating in a reading group on population
-genetics during the Spring semester of 2021. We meet Fridays at 3PM,
+genetics during the Spring semester of 2021. We meet Wednesdays at 10AM,
 Mountain time. Most of the readings are Gillespie's
 [Population genetics: a concise guide] [gillespie:concise].
 
