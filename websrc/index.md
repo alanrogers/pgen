@@ -33,15 +33,13 @@ chapter 2.
 
   * Gillespie sections 2.0-2.3
 
-  * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 1.
-
   * [Lecture](hetzdecay.pdf)
 
   * Homework ch 3
 
 1. Feb 05 Gene genealogies
 
-   * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 4-5.
+   * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Chs. 1,4-5.
 
    * Gillespie section 2.6
 
@@ -68,43 +66,47 @@ chapter 2.
 
    * Homework ch 8
 
-1. Mar 05 No class
+1. Mar 03 Site frequency spectrum
 
-1. Mar 12 Mutation versus selection
+  * [Rogers. Lecture notes on gene genealogies.] [rogers:LNGG] Ch. 6.
+
+  * For more math: [Rogers. Expectation of the SFS] [rogers:sfs]
+
+1. Mar 10 Mutation versus selection
 
    * Gillespie section 3.4
 
    * Homework ch 8
 
-1. Mar 19 Selection and drift
+1. Mar 17 Selection and drift
 
    * Gillespie sections 3.9-3.10
 
-1. Mar 26 Neutral evolution at two loci
+1. Mar 24 Neutral evolution at two loci
 
    * Gillespie sections 4.0-4.1
 
    * Homework ch 9
 
-1. Apr 02 Selection two loci
+1. Mar 31 Selection two loci
 
    * Gillespie section 4.2
 
    * Homework ch 9
 
-1. Apr 09 Inbreeding
+1. Apr 07 Inbreeding
 
    *  Gillespie, sections 5.0-5.2
 
    * Homework ch 10
 
-1. Apr 16 Inbreeding, drift, and fitness
+1. Apr 14 Inbreeding, drift, and fitness
 
    *  Gillespie, section 5.3
 
    * Homework ch 10
 
-1. Apr 23 Population structure
+1. Apr 21 Population structure
 
   * [Rogers, 2020.](popstruc.pdf) Geographic population
     structure.
@@ -127,3 +129,6 @@ https://content.csbs.utah.edu/~rogers/ant5221/homework/homework.pdf
 
 [lab]:
 https://content.csbs.utah.edu/~rogers/ant5221/lab/index.php
+
+[rogers:sfs]:
+spectrum.pdf
