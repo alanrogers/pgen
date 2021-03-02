@@ -133,4 +133,4 @@ https://content.csbs.utah.edu/~rogers/ant5221/homework/homework.pdf
 https://content.csbs.utah.edu/~rogers/ant5221/lab/index.php
 
 [rogers:sfs]:
-spectrum.pdf
+https://arxiv.org/pdf/2103.00335.pdf
