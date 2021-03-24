@@ -90,6 +90,8 @@ chapter 2.
 
    * Homework ch 9
 
+  * [Lecture](ld-2x3.pdf)
+
 1. Mar 31 Selection two loci
 
    * Gillespie section 4.2
